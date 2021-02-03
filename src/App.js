@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Menu namn="Ulla-Bella" />
+        <Menu namn="Folkesson" />
         <img src={folkesson} alt="folkesson" />
         <HelloUser />
       </header>

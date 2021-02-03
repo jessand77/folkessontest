@@ -8,7 +8,7 @@ class Menu extends React.Component {
     render() {
       return (
         <div className="Menu">
-          <h1>Välkommen {this.props.namn}!</h1>
+          <h1>Välkommen till {this.props.namn}!</h1>
           <a href="http://www.folkessonab.se">
             <img src={revision} alt="revision" />  
           </a>
